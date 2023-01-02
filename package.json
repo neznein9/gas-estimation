@@ -1,0 +1,25 @@
+{
+  "name": "gas-estimation",
+  "version": "0.0.1",
+  "description": "Estimate gas with EIP-1559 - 3 Ways",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neznein9/gas-estimation.git"
+  },
+  "keywords": [],
+  "author": "Rob (https://medium.com/@neznein9)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neznein9/gas-estimation/issues"
+  },
+  "homepage": "https://github.com/neznein9/gas-estimation#readme",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "node-fetch": "^3.3.0"
+  }
+}
