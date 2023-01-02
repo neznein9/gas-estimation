@@ -1,8 +1,9 @@
 # Estimate  Transaction Gas with Ethers.js and EIP-1559
 
-This is a demo repo for the Medium article []().
+This is a demo repo for the Medium article [Estimate Transaction Gas with Ethers.js and EIP-1559](https://neznein9.medium.com/estimate-transaction-gas-with-ethers-js-and-eip-1559-4f87d8244cbf?sk=5da06b3548d4b065af9fd3996dc92e42).
 
 Relevant code is in `/src/app.js`. This repo is MIT licensed, use at your own risk.
+
 ---
 
 # Install Demo
